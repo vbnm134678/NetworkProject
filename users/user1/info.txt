@@ -1,0 +1,1 @@
+{"id":"user1","name":"유저1","friend":[{"id":"dragon0414","name":"유승준"}],"chat":["dragon0414=user1"],"last":"2020-12-16-11-40","state":"유저1의 상태 메세지"}

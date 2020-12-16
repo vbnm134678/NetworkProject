@@ -1,0 +1,4 @@
+{"id":"dragon0414","nickname":"유승준","password":"4567","address":"dragon0414@naver.com","birth":"000414","condi":"no"}
+{"id":"user1","nickname":"유저1","password":"4567","address":"user2@naver.com","birth":"000124","condi":"no"}
+{"id":"lee1","nickname":"Lee","password":"4567","address":"lee@gachon.ac.kr","birth":"991129","condi":"no"}
+{"id":"park1","nickname":"Park","password":"4567","address":"park@naver.com","birth":"990412","condi":"no"}

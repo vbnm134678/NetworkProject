@@ -1,0 +1,13 @@
+{"chatCode":"dragon0414=user1","senderID":"dragon0414","senderName":"유승준","content":"유저1과의 채팅","type":"chat","time":"2020-12-15-20-14"}
+{"chatCode":"dragon0414=user1","senderID":"dragon0414","senderName":"유승준","content":"오 좋네","type":"chat","time":"2020-12-15-20-43"}
+{"chatCode":"dragon0414=user1","senderID":"dragon0414","senderName":"유승준","content":"KakaoTalk_20200423_184823629_09.jpg","type":"image","time":"2020-12-15-23-20"}
+{"chatCode":"dragon0414=user1","senderID":"user1","senderName":"유저1","content":"채팅 테스트","type":"chat","time":"2020-12-16-00-07"}
+{"chatCode":"dragon0414=user1","senderID":"user1","senderName":"유저1","content":"KakaoTalk_20200423_184823629_13.png","type":"image","time":"2020-12-16-00-07"}
+{"chatCode":"dragon0414=user1","senderID":"dragon0414","senderName":"유승준","content":"ㅎㅇㅎㅇ","type":"chat","time":"2020-12-16-08-19"}
+{"chatCode":"dragon0414=user1","senderID":"user1","senderName":"유저1","content":"ㅇㅇㅎㅇ","type":"chat","time":"2020-12-16-08-19"}
+{"chatCode":"dragon0414=user1","senderID":"dragon0414","senderName":"유승준","content":"@SOM.zip","type":"file","time":"2020-12-16-08-36"}
+{"chatCode":"dragon0414=user1","senderID":"user1","senderName":"유저1","content":"KakaoTalk_20201007_150726582.jpg","type":"image","time":"2020-12-16-08-36"}
+{"chatCode":"dragon0414=user1","senderID":"dragon0414","senderName":"유승준","content":"테스트","type":"chat","time":"2020-12-16-10-10"}
+{"chatCode":"dragon0414=user1","senderID":"user1","senderName":"유저1","content":"프로필 변경 테스트","type":"chat","time":"2020-12-16-10-10"}
+{"chatCode":"dragon0414=user1","senderID":"user1","senderName":"유저1","content":"프로필 변경 테스트","type":"chat","time":"2020-12-16-10-12"}
+{"chatCode":"dragon0414=user1","senderID":"dragon0414","senderName":"유승준","content":"성공","type":"chat","time":"2020-12-16-10-12"}
